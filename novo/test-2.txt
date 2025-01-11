@@ -1,4 +1,8 @@
 Primeira linha do arquivo
+que tem tambÃ©m uma segunda linha
+e uma terceira linha.
+        
+Primeira linha do arquivo
 que tem também uma segunda linha
 e uma terceira linha.
         
