@@ -1,8 +1,10 @@
 Primeira linha do arquivo
-que tem tambÃ©m uma segunda linha
+que tem tambÃƒÂ©m uma segunda linha
 e uma terceira linha.
         
 Primeira linha do arquivo
-que tem também uma segunda linha
+que tem tambÃ©m uma segunda linha
 e uma terceira linha.
+        
+açafrão
         
